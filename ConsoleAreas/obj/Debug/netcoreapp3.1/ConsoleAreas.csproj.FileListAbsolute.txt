@@ -1,0 +1,17 @@
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.AssemblyInfoInputs.cache
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.AssemblyInfo.cs
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\ConsoleAreas.exe
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\ConsoleAreas.deps.json
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\ConsoleAreas.runtimeconfig.json
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\ConsoleAreas.runtimeconfig.dev.json
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\ConsoleAreas.dll
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\ConsoleAreas.pdb
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.dll
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.pdb
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.genruntimeconfig.cache
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\FiguresAreasLibrary.dll
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\bin\Debug\netcoreapp3.1\FiguresAreasLibrary.pdb
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.csproj.AssemblyReference.cache
+C:\Users\Katya\source\repos\ConsoleAreas\ConsoleAreas\obj\Debug\netcoreapp3.1\ConsoleAreas.csproj.CopyComplete

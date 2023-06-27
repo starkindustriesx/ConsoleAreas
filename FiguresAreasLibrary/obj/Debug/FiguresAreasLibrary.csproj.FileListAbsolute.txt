@@ -1,0 +1,6 @@
+C:\Users\Katya\source\repos\ConsoleAreas\FiguresAreasLibrary\bin\Debug\FiguresAreasLibrary.dll
+C:\Users\Katya\source\repos\ConsoleAreas\FiguresAreasLibrary\bin\Debug\FiguresAreasLibrary.pdb
+C:\Users\Katya\source\repos\ConsoleAreas\FiguresAreasLibrary\obj\Debug\FiguresAreasLibrary.csproj.AssemblyReference.cache
+C:\Users\Katya\source\repos\ConsoleAreas\FiguresAreasLibrary\obj\Debug\FiguresAreasLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\ConsoleAreas\FiguresAreasLibrary\obj\Debug\FiguresAreasLibrary.dll
+C:\Users\Katya\source\repos\ConsoleAreas\FiguresAreasLibrary\obj\Debug\FiguresAreasLibrary.pdb
